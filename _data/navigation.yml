@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "My Work"
-    url: "/mywork"
-  - title: "My Writing"
-    url: "/mywriting"
+  - title: "Projetos"
+    url: "/meusprojetos"
+  - title: "Cursos"
+    url: "/meuscursos"
   - title: "About"
     url: "/about"
